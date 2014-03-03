@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bf0a094-0198-46fd-a71d-263846500262" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/.gitmodules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/.lvimrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Translator.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Translator/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TranslatorManager/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/add_subtract.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TranslatorManager/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/src/less/bootstrap-datetimepicker-build.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ar-ma.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/build/css/bootstrap-datetimepicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/src/js/bootstrap-datetimepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/src/less/bootstrap-datetimepicker.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stylesheets/bootstrap-datetimepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/bootstrap-datetimepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.tzm-la.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.vn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/locales/bootstrap-datetimepicker.zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/browser-prefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/browser-suffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/tasks/check_sauce_creds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/clients.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/completed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/tasks/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/cv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/days_in_month.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/duration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/tasks/embed_languages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/ender.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TranslatorManager/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/getters_setters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/tasks/history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/hy-am.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/invalid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/is_after.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/is_before.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/is_moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/is_same.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/is_valid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/jobs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/lang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/min/langs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/min/langs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/lb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/leapyear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/listers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stylesheets/main kopi 2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stylesheets/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stylesheets/main.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/min_max.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TranslatorManager/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/min/moment-with-langs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/min/moment-with-langs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/moment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/min/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/mr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ms-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/mutable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/nn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/normalizeUnits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/parsing_flags.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/preparse_postformat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/quarter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/rs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Translator/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/tasks/size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/sod_eod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/string_prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/ta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TranslatorManager/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/tl-ph.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascripts/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/tzm-la.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/tzm-la.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/tzm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Translator/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/utc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TranslatorManager/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/vn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/vn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/week_year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/weekday.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/weeks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/weeks_in_year.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Translator/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/lang/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/lang/zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/tasks/zones.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bootstrap-datetimepicker-master/moment-develop/test/moment/zones.js" />
+    </list>
+    <ignored path="Translator.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Translator" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="jobs.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/jobs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="194" column="10" selection-start="9596" selection-end="9596" vertical-scroll-proportion="0.0" vertical-offset="2562" max-vertical-offset="3030">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clients.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/clients.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="31" selection-start="2104" selection-end="2104" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="1440">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TranslatorManager/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="95" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="1785">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysite.log" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite.log">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TranslatorManager/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="27" selection-start="913" selection-end="913" vertical-scroll-proportion="0.3038674" vertical-offset="100" max-vertical-offset="1005">
+              <folding>
+                <element signature="e#24#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TranslatorManager/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="83" selection-start="1809" selection-end="3396" vertical-scroll-proportion="0.0" vertical-offset="700" max-vertical-offset="1620">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TranslatorManager/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="30" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="195">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/completed.html" />
+        <option value="$PROJECT_DIR$/Translator/settings.py" />
+        <option value="$PROJECT_DIR$/Translator/urls.py" />
+        <option value="$PROJECT_DIR$/templates/clients.html" />
+        <option value="$PROJECT_DIR$/TranslatorManager/admin.py" />
+        <option value="$PROJECT_DIR$/templates/jobs.html" />
+        <option value="dbtable:/9fffdfd4/509a6c35-2bc1-483b-96d8-1d1e036af69a/TranslatorDB..TranslatorManager_jobtype" />
+        <option value="dbtable:/9fffdfd4/509a6c35-2bc1-483b-96d8-1d1e036af69a/TranslatorDB..TranslatorManager_clientjob" />
+        <option value="$PROJECT_DIR$/TranslatorManager/views.py" />
+        <option value="$PROJECT_DIR$/TranslatorManager/models.py" />
+        <option value="$PROJECT_DIR$/TranslatorManager/forms.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1648" />
+    <option name="height" value="1028" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TranslatorManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Translator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Database.TableEditor.Splitter" value="0.9" />
+    <property name="Console.TableResult.DefaultCopyAction" value="Comma-separated Values (CSV)" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Translator">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Translator" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Translator.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Translator" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Translator" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bf0a094-0198-46fd-a71d-263846500262" name="Default" comment="" />
+      <created>1393756754794</created>
+      <updated>1393756754794</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1648" height="1028" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19538835" sideWeight="0.5916399" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23058252" sideWeight="0.5916399" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34450868" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40836012" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1159" selection-end="1173" vertical-scroll-proportion="-19.375" vertical-offset="30" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="6" selection-start="494" selection-end="494" vertical-scroll-proportion="0.3243243" vertical-offset="0" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm30/python_stubs/341388253/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/completed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="11" selection-start="1028" selection-end="1028" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="555" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translator/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Translator/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="124" column="6" selection-start="3213" selection-end="3213" vertical-scroll-proportion="1.6177924" vertical-offset="878" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/509a6c35-2bc1-483b-96d8-1d1e036af69a.table:TranslatorDB.TranslatorManager_jobtype">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>509a6c35-2bc1-483b-96d8-1d1e036af69a.table:TranslatorDB.TranslatorManager_jobtype</OriginalElement>
+          <nodes>
+            <node x="" y="">509a6c35-2bc1-483b-96d8-1d1e036af69a.table:TranslatorDB.TranslatorManager_client</node>
+            <node x="" y="">509a6c35-2bc1-483b-96d8-1d1e036af69a.table:TranslatorDB.TranslatorManager_jobtype</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="193.0" y="304.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/jobs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="194" column="10" selection-start="9596" selection-end="9596" vertical-scroll-proportion="0.0" vertical-offset="2562" max-vertical-offset="3030">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/clients.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="31" selection-start="2104" selection-end="2104" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/9fffdfd4/509a6c35-2bc1-483b-96d8-1d1e036af69a/TranslatorDB..TranslatorManager_clientjob">
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TranslatorManager/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="95" selection-start="2134" selection-end="2134" vertical-scroll-proportion="0.0" vertical-offset="173" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite.log">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TranslatorManager/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="83" selection-start="1809" selection-end="3396" vertical-scroll-proportion="0.0" vertical-offset="700" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/9fffdfd4/509a6c35-2bc1-483b-96d8-1d1e036af69a/TranslatorDB..TranslatorManager_jobtype">
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TranslatorManager/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="30" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TranslatorManager/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="27" selection-start="913" selection-end="913" vertical-scroll-proportion="0.3038674" vertical-offset="100" max-vertical-offset="1005">
+          <folding>
+            <element signature="e#24#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

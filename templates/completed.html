@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ category_name }}{% endblock %}
+
+{% block body_block %}
+    <div class="container">
+        <div class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header"><a href="/" class="navbar-brand">Job Trackerur</a>
+                </div>
+            </div>
+        </div>
+        <div class="alert alert-dismissable"></div>
+        <h1>Completed</h1>
+        <p>Freelance Localization Translation Job Management Toolur</p>
+        <div class="menu">
+            <h2>Menu</h2>
+            <ul class="nav nav-pills">
+                <li><a href="/">Home</a>
+                </li>
+                <li><a href="/jobs">Jobs</a>
+                </li>
+                <li class="active"><a href="/completed">Completed Jobs</a>
+                </li>
+                <li><a href="/clients">Clients</a>
+                </li>
+            </ul>
+        </div>
+        <h1>Completed</h1>
+        <div class="list">No tasks.</div>
+    </div>
+{% endblock %}

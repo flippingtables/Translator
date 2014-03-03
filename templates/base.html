@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+{% load static %} <!-- New line -->
+
+<html>
+
+<head>
+    <title>Express Todo App | Job Trackerur</title>
+    <link rel="stylesheet" href="{% static "bootstrap/bootstrap.min.css" %}" /> <!-- CSS -->
+    <link rel="stylesheet" href="{% static "stylesheets/main.css" %}" /> <!-- CSS -->
+    <link rel="stylesheet"  href="{% static "stylesheets/bootstrap-datetimepicker.min.css" %}">
+    <script src="{% static "javascripts/jquery.js" %}"></script> <!-- JavaScript -->
+</head>
+<body>
+        {% block body_block %}{% endblock %}
+</body>
+<script src="{% static "javascripts/moment.js" %}"></script>
+<script src="{% static "javascripts/bootstrap-datetimepicker.min.js" %}"></script>
+<script src="{% static "javascripts/transition.js" %}"></script>
+<script src="{% static "javascripts/collapse.js" %}"></script>
+</html>

@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ category_name }}{% endblock %}
+
+{% block body_block %}
+    <div class="container">
+        <div class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header"><a href="/" class="navbar-brand">Job Trackerur</a>
+                </div>
+            </div>
+        </div>
+        <div class="alert alert-dismissable"></div>
+        <h1>List of Clients</h1>
+        <p>Freelance Localization Translation Job Management Toolur</p>
+        <div class="menu">
+            <h2>Menu</h2>
+            <ul class="nav nav-pills">
+                <li><a href="/">Home</a>
+                </li>
+                <li><a href="/jobs">Jobs</a>
+                </li>
+                <li><a href="/completed">Completed Jobs</a>
+                </li>
+                <li class="active"><a href="/clients">Clients</a>
+                </li>
+            </ul>
+        </div>
+        <h1>List of Clients</h1>
+        <form action="/add_client/" method="post" role="form" class="form-horizontal">
+            {% csrf_token %}
+            {% for hidden in form.hidden_fields %}
+                {{ hidden }}
+            {% endfor %}
+
+
+{#            <input type="hidden" value="t2gEspKDZZAy-taAmit9bsZG" name="_csrf">#}
+            <div class="form-group">
+                <label for="contactName" class="col-sm-2 control-label">Client</label>
+                <div class="col-sm-10">
+                    <input type="text" name="clientName" placeholder="Client Name" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="contactPerson" class="col-sm-2 control-label">Contact Person</label>
+                <div class="col-sm-10">
+                    <input type="text" name="clientContact" placeholder="Contact Person" class="form-control">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                {% for field in form.clientName.errors %}
+                    {{ field }}
+                    <p>Please re-enter a Client Name</p>
+                {% endfor %}
+                {% for field in form.clientContact.errors %}
+                    {{ field }}
+                    <p>Please re-enter a Contact Person</p>
+                {% endfor %}
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <button type="submit" value="addClient" class="btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+            <div class="center-block">
+            {% if clients %}
+                {%  for client in clients %}
+                <div class="row">
+                    <div class="col-md-2 col-md-offset-3">
+                        <span>{{forloop.counter }}.&nbsp;</span>
+                    </div>
+                    <div class="col-md-2">
+                        <span class="name">{{ client.clientName }}</span>
+                    </div>
+                    <div class="col-md-2">
+                        <span class="name">{{ client.clientContact }}</span>
+                    </div>
+                </div>
+                {% endfor %}
+             {% else %}
+                            <option value="" disabled selected>Create some clients first…</option>
+             {% endif %}
+            </div>
+
+    </div>
+{% endblock %}

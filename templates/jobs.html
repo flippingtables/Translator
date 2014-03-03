@@ -1,0 +1,197 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ category_name }}{% endblock %}
+
+{% block body_block %}
+    <div class="container">
+        <div class="navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header"><a href="/" class="navbar-brand">Job Trackerur</a>
+                </div>
+            </div>
+        </div>
+        <div class="alert alert-dismissable"></div>
+        <h1>List of Jobs</h1>
+        <p>Freelance Localization Translation Job Management Toolur</p>
+        <div class="menu">
+            <h2>Menu</h2>
+            <ul class="nav nav-pills">
+                <li><a href="/">Home</a>
+                </li>
+                <li class="active"><a href="/jobs">Jobs</a>
+                </li>
+                <li><a href="/completed">Completed Jobs</a>
+                </li>
+                <li><a href="/clients">Clients</a>
+                </li>
+            </ul>
+        </div>
+        <h1>List of Jobs</h1>
+        <form action="/tasks" method="post" role="form" class="form-horizontal">
+            <input type="hidden" value="undefined" name="_csrf">
+            <div class="form-group">
+                <label for="client" class="col-sm-2 control-label">Client</label>
+                <div class="col-sm-10">
+                    <select name="client" id="client" class="form-control">
+                        <option value="Z" disabled selected>Select a Client…</option>
+                        {% if clients %}
+                            <ul>
+                            {% for client in clients %}
+                              <option>{{ client.clientName }}</option>
+                            {% endfor %}
+                            </ul>
+                        {% else %}
+                            <option value="" disabled selected>Create some clients first…</option>
+                        {% endif %}
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="clientContactName" class="col-sm-2 control-label">Contact</label>
+                <div class="col-sm-10">
+                    <input type="text" name="clientContactName" id="clientContactName" placeholder="Enter a Contact Name" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobDescription" class="col-sm-2 control-label">Description</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobDescription" id="jobDescription" placeholder="Job Description" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobService" class="col-sm-2 control-label">Service</label>
+                <div class="col-sm-10">
+                    <select name="jobService" id="jobService" class="form-control">
+                        <option value="" disabled selected>Select a Service…</option>
+                        <option>Review</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobDeadline" class="col-sm-2 control-label">Deadline</label>
+                <div class="col-sm-10">
+                    <div id="datetimepicker" class="input-group date">
+                        <input type="text" data-format="YYYY/MM/DD HH:mm" name="jobDeadline" id="jobDeadline" placeholder="Enter Deadline &quot;YYYY/MM/DD HH:mm&quot;" class="form-control">
+                        <span class="input-group-addon">
+                            <span class="glyphicon glyphicon-time"></span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobNew" class="col-sm-2 control-label">New</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobNew" id="jobNew" placeholder="New Words" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobFuzzy50" class="col-sm-2 control-label">Fuzzy 50</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobFuzzy50" id="jobFuzzy50" placeholder="Fuzzy 50" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobFuzzy75" class="col-sm-2 control-label">Fuzzy 75</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobFuzzy75" id="jobFuzzy75" placeholder="Fuzzy 75" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobFuzzy85" class="col-sm-2 control-label">Fuzzy 85</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobFuzzy85" id="jobFuzzy85" placeholder="Fuzzy 85" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobFuzzy95" class="col-sm-2 control-label">Fuzzy 95</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobFuzzy95" id="jobFuzzy95" placeholder="Fuzzy 95" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobMatch" class="col-sm-2 control-label">Match</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobMatch" id="jobMatch" placeholder="Match" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobRep" class="col-sm-2 control-label">Rep</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobRep" id="jobRep" placeholder="Rep" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="jobICE" class="col-sm-2 control-label">ICE</label>
+                <div class="col-sm-10">
+                    <input type="text" name="jobICE" id="jobICE" placeholder="ICE" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-offset-2 col-sm-10">
+                    <button type="submit" value="add" class="btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+        <div class="item">
+            <div class="num">
+                <span>1.&nbsp;</span>
+            </div>
+            <div class="name">
+                <span class="name"></span>
+            </div>
+            <div class="name">
+                <span class="name"></span>
+            </div>
+            <div class="delete"><a data-task-id="53026c21300f236402000001" data-csrf="t2gEspKDZZAy-taAmit9bsZG" class="btn btn-danger btn-xs task-delete">delete</a>
+            </div>
+        </div>
+        <script>
+        //$(function() {
+
+        //});
+            $(document).ready(
+                     function() {
+
+                         $('#datetimepicker').datetimepicker();
+                     });
+{#                         $("select#client").change(function() {#}
+{#                             if ($(this).val() == 'Z') {#}
+{#                                 console.log("ZETT");#}
+{#                                 $("input#clientContactName").html('<input type="text" name="clientContactName" id="clientContactName" placeholder="Enter a Contact Name" class="form-control">');#}
+{#                             }#}
+{#                             else {#}
+{#                                 console.log("ELSE");#}
+{#                                 var url = "" + $(this).val() + "/all_clients";#}
+{#                                 var brand = $(this).val();#}
+{#                                 $.getJSON(url, function(clients) {#}
+{#                                     var options = '<option value="Z">Select a model</option>';#}
+{#                                     console.log("A: "+clients);#}
+{#                                     for (var i = 0; i < clients.length; i++) {#}
+{#                                        console.log(clients[i]);#}
+{#                                        console.log(clients[i].fields['clientContact']);#}
+{#                                        //options += '<option value="' + models[i].pk + '">' + models[i].fields['description'] + '</option>';#}
+{#                                     }#}
+{#                                     $("input#clientContactName").val('Hallo');#}
+{#                                     //$("select#model option:first").attr('selected', 'selected');#}
+{#                                     //$("select#model").attr('disabled', false);#}
+{#                                 });#}
+{#                                 console.log("after");#}
+{#                             }#}
+{#                             console.log("after1");#}
+{#                         });#}
+{##}
+{##}
+{#                         $("select#client").change(function(vent) {#}
+{#                             if ($(this).val() == -1) {#}
+{#                                 return;#}
+{#                             }#}
+{#                             myAwesomeFunctionToCallWhenAModelIsSelected();#}
+{#                         });#}
+{#                     });#}
+{#    function myAwesomeFunctionToCallWhenAModelIsSelected(){#}
+{#        console.log("Hejsa");#}
+ //   }
+        </script>
+    </div>
+    {{ price }}
+{% endblock %}
