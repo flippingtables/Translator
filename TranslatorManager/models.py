@@ -93,6 +93,8 @@ class ClientJob(models.Model):
     words_rep = models.FloatField(default=0)
     words_ice = models.FloatField(default=0)
     #multiply total with this percentage value e.g. 100 * 1.50 (50% rush charge)
+    #THIS SHOULD BE A TRUE/FALSE VALUE
+    #TODO CHANGE TO TRUE FALSE
     pay_rush = models.FloatField(default=0)
 
 

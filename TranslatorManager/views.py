@@ -4,7 +4,7 @@ from django.template import RequestContext
 from django.shortcuts import render_to_response
 from TranslatorManager.models import Client,JobType,ClientJob
 import logging,sys
-from TranslatorManager.forms import ClientForm
+from TranslatorManager.forms import ClientForm,AddJobForm
 
 
 logger = logging.getLogger(__name__)
@@ -33,26 +33,33 @@ def jobs(request):
     #totalPrice = 0.0
     #if jobs[0].service == "Translation":
     #    totalPrice += paymentInfo[0].words_new * jobs[0].words_new + paymentInfo[0].words_fuzzy85 * jobs[0].words_fuzzy85 + paymentInfo[0].words_match * jobs[0].words_match + paymentInfo[0].words_rep * jobs[0].words_rep + paymentInfo[0].words_ice * jobs[0].words_ice
+
+    form = AddJobForm()
+
     totalPrice = calc_DTP(1, 'Localeyes')
-    return render_to_response('jobs.html', {'clients': context_dict, 'price':totalPrice}, context)
+    return render_to_response('jobs.html', {'clients': context_dict, 'price':totalPrice, 'form': form}, context)
 
 def add_job(request):
     context = RequestContext(request)
-    context_dict = Client.objects.all()
+
 
     if request.method == 'POST':
-        form = ClientForm(request.POST)
+        form = AddJobForm(request.POST)
 
+        #allClients = Client.objects.get(clientName=form.clientName)
         if form.is_valid():
+            #newJob = \
             form.save(commit=True)
+            #newJob.key_field = form.client #CLIENT ID FROM FORM
+            form.save()
 
-            return clients(request)
+            return jobs(request)
         else:
             print form.errors
     else:
-        form = ClientForm()
+        form = AddJobForm()
 
-    return render_to_response('clients.html', {'form': form, 'clients': context_dict}, context)
+    return render_to_response('jobs.html', {'form': form}, context)
 
 def completed(request):
     context = RequestContext(request)

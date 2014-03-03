@@ -15,7 +15,8 @@ urlpatterns = patterns('',
     url(r'^jobs/', views.jobs, name='jobs'),
     url(r'^completed/', views.completed, name='completed'),
     #url(r'^jobs/(?P<client>[-\w]+)/all_clients/$', 'all_clients'),
-    url(r'^add_client/$', views.add_client, name='add_client'), # NEW MAPPING!
+    url(r'^add_client/$', views.add_client, name='add_client'),
+    url(r'^add_job/$', views.add_job, name='add_job'),
 
 
 )
